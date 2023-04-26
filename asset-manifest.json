@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quockhanh09/swapface/static/css/main.84025ef2.css",
+    "main.js": "/quockhanh09/swapface/static/js/main.e4601577.js",
+    "static/js/787.06f824f0.chunk.js": "/quockhanh09/swapface/static/js/787.06f824f0.chunk.js",
+    "static/media/iconHeart.svg": "/quockhanh09/swapface/static/media/iconHeart.e9ee4561b3cfa19fc4ef.svg",
+    "index.html": "/quockhanh09/swapface/index.html",
+    "main.84025ef2.css.map": "/quockhanh09/swapface/static/css/main.84025ef2.css.map",
+    "main.e4601577.js.map": "/quockhanh09/swapface/static/js/main.e4601577.js.map",
+    "787.06f824f0.chunk.js.map": "/quockhanh09/swapface/static/js/787.06f824f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84025ef2.css",
+    "static/js/main.e4601577.js"
+  ]
+}
